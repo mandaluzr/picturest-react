@@ -1,0 +1,16 @@
+.header__container {
+  display: flex;
+  height: 88px;
+  padding: 10px;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.picturest-logo {
+  height: 60x;
+  width: 60px;
+}
+
+.picturest {
+  font-weight: 700;
+}

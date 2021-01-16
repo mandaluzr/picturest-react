@@ -1,0 +1,30 @@
+.userCard__container {
+  width: 100%;
+  align-items: center;
+}
+
+.userCard__image {
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+}
+
+.userCard_info__container {
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.userCard_info_userFullName__text {
+  font-style: normal;
+  font-size: 10px;
+}
+
+.userCard_info__userFollowing__text {
+  font-size: 12px;
+}

@@ -1,0 +1,13 @@
+.pin__Card_container {
+  width: 100%;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-right: 44px;
+  margin-bottom: 44px;
+}
+
+.image {
+  width: 100%;
+  border-radius: 10px;
+}
